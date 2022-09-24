@@ -1,0 +1,1 @@
+Package { #name : #'OpenHAB-Core' }
